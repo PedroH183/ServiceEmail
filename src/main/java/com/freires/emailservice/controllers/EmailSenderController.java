@@ -12,7 +12,6 @@ import com.freires.emailservice.core.exceptions.EmailServiceException;
 @RestController
 @RequestMapping("/api/email")
 public class EmailSenderController {
-
     private final EmailSenderService emailSenderService;
 
     @Autowired
