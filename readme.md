@@ -7,13 +7,14 @@
 ### PT-BR
 Esse projeto é uma API criada utilizando <b>Java</b>,<b>Java Spring</b> e <b>AWS Simple Service Email</b>.<br>
 Foi desenvolvido para resolver o desafio do [Uber Backend Challenge](https://github.com/uber-archive/coding-challenge-tools/blob/master/coding_challenge.md).<br>
-    `Esse projeto foi desenvolvido com [Kipper Dev](https://youtu.be/eFgeO9M9lLw?si=uyhUXrR-NLEpBW6p)`
 
+Esse projeto foi desenvolvido com base no video : [Kipper Dev](https://youtu.be/eFgeO9M9lLw?si=uyhUXrR-NLEpBW6p)
 
 ### EN-US
 This project was created using <b>Java</b>, <b>Java Spring</b>, and <b>AWS Simple Email Service</b>.<br>
 The project addressed the issue described in the following link [Uber Backend Challenge](https://github.com/uber-archive/coding-challenge-tools/blob/master/coding_challenge.md).<br>
-    `This project was developed with [Kipper Dev](https://youtu.be/eFgeO9M9lLw?si=uyhUXrR-NLEpBW6p)`
+    
+This project was developed with base on the video : [Kipper Dev](https://youtu.be/eFgeO9M9lLw?si=uyhUXrR-NLEpBW6p)
 
 ## Table of Contents
 
