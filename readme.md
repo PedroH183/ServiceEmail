@@ -5,7 +5,7 @@
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 ### PT-BR
-Esse projeto é uma API criada utilizando <b>Java</b>,<b>Java Spring</b> e <b>AWS Simple Service Email</b>.<br>
+Esse projeto é uma API criada utilizando <b>Java</b>,<b>Java Spring</b> e <b>AWS Simple Email Service</b>.<br>
 Foi desenvolvido para resolver o desafio do [Uber Backend Challenge](https://github.com/uber-archive/coding-challenge-tools/blob/master/coding_challenge.md).<br>
 
 Esse projeto foi desenvolvido com base no video : [Kipper Dev](https://youtu.be/eFgeO9M9lLw?si=uyhUXrR-NLEpBW6p)
